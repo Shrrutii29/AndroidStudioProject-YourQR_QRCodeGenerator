@@ -1,0 +1,1 @@
+# AndroidStudioProject-YourQR_QRCodeGenerator
